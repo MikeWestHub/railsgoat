@@ -7,6 +7,7 @@ gem "rails", "6.0.0"
 ruby "2.6.5"
 
 gem "aruba"
+gem "addressable", "2.5.0"
 gem "bcrypt"
 gem "coffee-rails"
 gem "execjs"
