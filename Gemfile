@@ -43,7 +43,7 @@ group :development, :mysql do
   gem "pry"
   gem "rack-livereload"
   gem "rb-fsevent"
-  gem 'rubocop', '~> 0.76', require: false
+  gem 'rubocop', '~> 0.82', require: false
   gem "travis-lint"
 end
 
