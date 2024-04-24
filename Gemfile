@@ -35,7 +35,6 @@ gem "unicorn"
 # gem 'mailcatcher'
 
 group :development, :mysql do
-  gem "awesome-bot", "1.18.0"
   gem "better_errors"
   gem "binding_of_caller"
   gem "bundler-audit"
